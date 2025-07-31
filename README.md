@@ -9,6 +9,18 @@ Olá! Eu sou o Bruno De Araújo 🖐️
   <!--<img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
   <!--<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
 </div>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=rebeccacandido&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=rebeccacandido&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rebeccacandido&show_icons=true" />
+</picture>
   
   ##
  
