@@ -1,5 +1,18 @@
-Olá! Eu sou o Bruno De Araújo 🖐️
+# Olá! Eu sou Bruno De Araújo 🖐️
 
+<div> 
+  <a href="https://github.com/amdre2"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Uuiskas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uuiskas&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+</div>
+
+<div> 
+  <a href="https://www.instagram.com/brunoapf__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/brunoapf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+## 🛠️ Tecnologias e Ferramentas    
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -10,20 +23,5 @@ Olá! Eu sou o Bruno De Araújo 🖐️
   <!--<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
 </div>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Uuiskas&show_icons=true&theme=Bear"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Uuiskas&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=rebeccacandido&show_icons=true" />
-</picture>
+
  
-<div> 
-  <a href="https://www.instagram.com/brunoapf__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brunoapf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
