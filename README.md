@@ -12,17 +12,15 @@ Olá! Eu sou o Bruno De Araújo 🖐️
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rebeccacandido&show_icons=true&theme=dracula"
+    srcset="https://github-readme-stats.vercel.app/api?username=Uuiskas&show_icons=true&theme=Bear"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rebeccacandido&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=Uuiskas&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=rebeccacandido&show_icons=true" />
 </picture>
-  
-  ##
  
 <div> 
   <a href="https://www.instagram.com/brunoapf__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
