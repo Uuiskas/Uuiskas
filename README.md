@@ -5,6 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uuiskas&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
+## Outras redes sociais que você pode me encontrar:
 <div> 
   <a href="https://www.instagram.com/brunoapf__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brunoapf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
