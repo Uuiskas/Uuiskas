@@ -13,7 +13,7 @@
 ## 🛠️ Ferramentas que eu uso no dia a dia 
 
 - **IntelliJ e VSCODE**: Meus ambientes de desenvolvimento favoritos 
-- **DBeaver**: Para analisar meus banco de dados de forma mais efeciente 
+- **DBeaver**: Para analisar meus banco de dados de forma mais eficiente 
 - **Git & GitHub**: Controle de versão e colaboração em projetos 
 <!--- **Insomnia**: Para testar APIs e quando no front garantir integração efeciente-->
 
