@@ -10,14 +10,14 @@
   <a href="https://www.linkedin.com/in/brunoapf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
 
-## 🛠 Ferramentas que eu uso no dia a dia 
+## 🛠️ Ferramentas que eu uso no dia a dia 
 
 - **IntelliJ e VSCODE**: Meus ambientes de desenvolvimento favoritos 
 - **DBeaver**: Para analisar meus banco de dados de forma mais efeciente 
 - **Git & GitHub**: Controle de versão e colaboração em projetos 
 <!--- **Insomnia**: Para testar APIs e quando no front garantir integração efeciente-->
 
-## 🛠️ Tecnologias e Ferramentas    
+## 🖥️ Tecnologias e Ferramentas    
 <div style="display: inline_block">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
