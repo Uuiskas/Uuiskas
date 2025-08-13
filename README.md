@@ -6,8 +6,8 @@
 
 ## 📫 Entre em contato comigo
 <div> 
-  <a href="https://www.instagram.com/brunoapf__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brunoapf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/brunoapf__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/brunoapf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a> 
 </div> 
 
 ## 🛠️ Ferramentas que eu uso no dia a dia 
@@ -29,8 +29,9 @@
 </div>
 <br></br>
 <div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Uuiskas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uuiskas&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=Uuiskas&theme=highcontrast&show_icons=true&hide_border=true&count_private=true"/> 
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uuiskas&theme=highcontrast&show_icons=true&hide_border=true&layout=compact"/>
+  <img src="https://streak-stats.demolab.com?user=Uuiskas&theme=highcontrast&border_radius=8&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=800&card_height=200"/>
 </div>
 
  
