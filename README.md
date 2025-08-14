@@ -29,8 +29,8 @@
 </div>
 <br></br>
 <div> 
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=Uuiskas&theme=highcontrast&show_icons=true&hide_border=true&count_private=true"/> 
-  <img width="345" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uuiskas&theme=highcontrast&show_icons=true&hide_border=true&layout=compact"/>
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=Uuiskas&show_icons=true&theme=highcontrast"/> 
+  <img width="345"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uuiskas&layout=compact&theme=highcontrast"/>
   <img src="https://streak-stats.demolab.com?user=Uuiskas&theme=highcontrast&border_radius=8&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=800&card_height=200"/>
 </div>
 
